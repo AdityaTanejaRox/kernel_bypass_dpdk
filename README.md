@@ -1,3 +1,5 @@
+> **Proprietary Notice:** This repository is private and proprietary. Unauthorized use, copying, modification, distribution, or commercialization of this codebase is strictly prohibited without explicit written permission. Access to this repository does NOT grant any license or rights to use the code. See the LICENSE file for full terms.
+
 # DPDK Kernel Bypass Microbenchmark (RX / Synthetic Path)
 
 A low-latency, multi-core **DPDK kernel-bypass microbenchmark** designed to study packet-path behavior, memory pool contention, and per-core scalability under realistic HFT-style constraints.
